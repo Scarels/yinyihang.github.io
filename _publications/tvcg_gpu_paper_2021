@@ -1,0 +1,11 @@
+---
+title: "GPU optimization for high-quality kinetic fluid simulation"
+collection: publications
+permalink: /publication/tvcg_gpu_paper_2021
+excerpt: 
+date: 2021
+venue: 'IEEE Transactions on Visualization and Computer Graphics'
+paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://ieeexplore.ieee.org/abstract/document/9355005)'
+citation: 'Chen, Yixin, et al. "GPU optimization for high-quality kinetic fluid simulation." IEEE Transactions on Visualization and Computer Graphics (2021).'
+---
+
