@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yixin Chen"
-  avatar           : "self.png"
+  avatar           : "/images/self.JPG"
   bio              : "Second year Ph.D. student @ Univeristy of Toronto"
   location         : "Toronto, Canada"
   employer         :
