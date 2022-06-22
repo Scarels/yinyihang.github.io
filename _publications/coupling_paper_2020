@@ -1,0 +1,10 @@
+---
+title: "Fast and scalable turbulent flow simulation with two-way coupling"
+collection: publications
+permalink: /publication/coupling_paper_2020
+excerpt: 
+date: 2020
+venue: 'ACM Transactions on Graphics'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3386569.3392400'
+citation: 'Li, Wei, et al. "Fast and scalable turbulent flow simulation with two-way coupling." ACM Transactions on Graphics 39.4 (2020): Art-No.'
+---
