@@ -11,9 +11,9 @@ title                    : "Yixin Chen's webpage"
 title_separator          : "-"
 name                     : &name "Yixin Chen"
 description              : &description "personal description"
-url                      : https://chenyixin1008.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yinyihang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chenyixin1008/chenyixin1008.github.io"
+repository               : "Scarels/yinyihang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yixin Chen"
+  name             : "Yihang Yin"
   avatar           : "/images/self.JPG"
-  bio              : "Second year Ph.D. student @ Univeristy of Toronto"
-  location         : "Toronto, Ontario, Canada"
+  bio              : "undergraduate student @ Central South University"
+  location         : "Changsha, Hunan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=_7nBgRUAAAAJ"
-  email            : "chenyixin1008@gmail.com"
+  googlescholar    : 
+  email            : "scarelsyyh@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yixin-chen-3b4033184/"
+  linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
